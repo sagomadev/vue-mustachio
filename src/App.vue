@@ -1,9 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import HeaderApp from './components/HeaderApp.vue'
+</script>
 
 <template>
-  <header>
-    <h1 class="text-3xl font-light">VUESTACHIO</h1>
-  </header>
+  <HeaderApp />
 
   <main></main>
 </template>
