@@ -1,7 +1,9 @@
 <script setup lang="ts"></script>
 
 <template>
-  <header></header>
+  <header>
+    <h1 class="text-3xl font-bold underline">Vue Mustachio</h1>
+  </header>
 
   <main></main>
 </template>
